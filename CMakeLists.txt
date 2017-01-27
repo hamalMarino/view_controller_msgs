@@ -21,4 +21,5 @@ install(PROGRAMS
   scripts/CameraTest
   scripts/SquareTest
   scripts/ControlsTest
+  scripts/MoveCameraFactory
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
